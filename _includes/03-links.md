@@ -1,1 +1,1 @@
-[GitHub]https://github.com/mgc38
+[GitHub](https://github.com/mgc38)

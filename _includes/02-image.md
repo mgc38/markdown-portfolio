@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Baby Sloth](https://preview.redd.it/72qwhrh00c121.png?auto=webp&s=6fb164a3c5effa29d123282a3f8d29e8dc2910d0)
